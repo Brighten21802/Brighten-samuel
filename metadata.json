@@ -1,0 +1,7 @@
+{
+  "name": "Jack -- 3D Creator",
+  "description": "Portfolio landing page for 3D Creator Brighten featuring interactive magnetic effects, character scroll reveal, marquee showreel, services, and sticky project cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
